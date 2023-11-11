@@ -55,7 +55,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DxMath">
-      <HintPath>.\DxMath.dll</HintPath>
+      <HintPath>packages\DxMath.dll</HintPath>
     </Reference>
     <Reference Include="MikuMikuPlugin">
       <HintPath>.\MikuMikuPlugin.dll</HintPath>
